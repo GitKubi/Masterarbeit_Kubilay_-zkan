@@ -1,0 +1,783 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2026-09-28T21:44:00+01:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///C:/Users/Kubilay/Desktop/Masterarbeit/Wochenschau folgen/Folgen 559-591/60314_1_1_DDW_741_BA.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./60314_1_1_DDW_741_BA.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:34ba4064-7c55-428f-ac97-b26a05b53fab</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">107</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="30000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="32188"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="37720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="37720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="43920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="43920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="47760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="54360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="55760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="60000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="71607"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="71807"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="76640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="76640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="81240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="81240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="85280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="91000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="98560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="98560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="103640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="103640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="110080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="119600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="120536"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="120640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="125320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="125320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="128720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="140720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="145080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="145080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="151840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="151840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="157640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="157640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="168920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="168920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="172905"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="175312"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="181160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="181160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="195400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="195400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="209080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="209080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="222400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="226400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="244400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="244400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="254400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="254400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="271400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="271400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="282960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="282960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="296960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="296960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="314960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="314960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="327960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="335960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="339960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="345960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="353960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="353960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="360960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="374960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="384960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="384960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="394960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="404960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="426397"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="426769"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="431960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="431960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="435960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="435960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="440960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="440960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="444960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="449960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts83" TIME_VALUE="452960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="452960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts85" TIME_VALUE="456960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts86" TIME_VALUE="482960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts87" TIME_VALUE="511960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts88" TIME_VALUE="511960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts89" TIME_VALUE="518960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts90" TIME_VALUE="541960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts91" TIME_VALUE="544960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts92" TIME_VALUE="544960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts93" TIME_VALUE="548960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts94" TIME_VALUE="548960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts95" TIME_VALUE="553960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts96" TIME_VALUE="556857"/>
+        <TIME_SLOT TIME_SLOT_ID="ts97" TIME_VALUE="557960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts98" TIME_VALUE="558198"/>
+        <TIME_SLOT TIME_SLOT_ID="ts99" TIME_VALUE="562960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts100" TIME_VALUE="571960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts101" TIME_VALUE="583960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts102" TIME_VALUE="583960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts103" TIME_VALUE="587960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts104" TIME_VALUE="587960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts105" TIME_VALUE="592960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts106" TIME_VALUE="597960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts107" TIME_VALUE="600960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts108" TIME_VALUE="600960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts109" TIME_VALUE="603960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts110" TIME_VALUE="603960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts111" TIME_VALUE="606960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts112" TIME_VALUE="606960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts113" TIME_VALUE="624960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts114" TIME_VALUE="624960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts115" TIME_VALUE="633960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts116" TIME_VALUE="633960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts117" TIME_VALUE="638960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts118" TIME_VALUE="652960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts119" TIME_VALUE="654960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts120" TIME_VALUE="663960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts121" TIME_VALUE="673271"/>
+        <TIME_SLOT TIME_SLOT_ID="ts122" TIME_VALUE="675069"/>
+        <TIME_SLOT TIME_SLOT_ID="ts123" TIME_VALUE="680960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts124" TIME_VALUE="680960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts125" TIME_VALUE="695960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts126" TIME_VALUE="710960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts127" TIME_VALUE="729960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts128" TIME_VALUE="729960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts129" TIME_VALUE="744960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts130" TIME_VALUE="744960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts131" TIME_VALUE="762960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts132" TIME_VALUE="763393"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sub" TIER_ID="Subtitle-Tier">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>Am selben Tage, an dem an traditionsgeweihter Städte einige Volkssturmbataillone zur Vereidigung</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts5">
+                <ANNOTATION_VALUE>vor die Blutfahne treten, wird an der Feldherrnhalle in München der Gefallenen des 9. November 1923</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE>gedacht. Gaulleiter Gießler und Generalfeldmarschall Keitel vor dem Mahnmal.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts8" TIME_SLOT_REF2="ts9">
+                <ANNOTATION_VALUE>Der Kranz des Führers.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts13">
+                <ANNOTATION_VALUE>Zu dieser Stunde sind in allen deutschen Gauen die Bataillone des Volkssturmes zur Vereidigung</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts15">
+                <ANNOTATION_VALUE>angetreten. In Ostpreußen werden die Volkssturmbataillone durch Gaulleiter Koch</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts16" TIME_SLOT_REF2="ts17">
+                <ANNOTATION_VALUE>vereidigt. Der Gaulleiter spricht vor seinen schon im Kampf bewährten Männern.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts19">
+                <ANNOTATION_VALUE>Sie haben in soldatischer Pflichterfüllung den sowjetischen Eindringlingen einen ersten</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts20" TIME_SLOT_REF2="ts21">
+                <ANNOTATION_VALUE>Begriff von dem heiligen Willen des deutschen Volkes gegeben sein Land bis zum letzten Atemzug</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts23">
+                <ANNOTATION_VALUE>zu verteidigen. Der Schwur auf die Fahne.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts27">
+                <ANNOTATION_VALUE>In Gansig. Eichenlaubträger U-Boot Kapitän Hartmann, der ein dortiges</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts28" TIME_SLOT_REF2="ts29">
+                <ANNOTATION_VALUE>Bataillon des Volkssturmes aufstellte im Gespräch mit Gaulleiter Forster.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts30" TIME_SLOT_REF2="ts31">
+                <ANNOTATION_VALUE>Nach der Vereidigung durch den Gaulleiter spricht Stabschef der SA Scheptmann zu</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts32" TIME_SLOT_REF2="ts33">
+                <ANNOTATION_VALUE>den Volkssturmmännern. Jenseits veralteter Begriffe allein im Geiste bester nationalsozialistischer</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts34" TIME_SLOT_REF2="ts35">
+                <ANNOTATION_VALUE>Volksgemeinschaft habe sich mit dem Volkssturm eine beispiellose Wehrorganisation herangebildet,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts36" TIME_SLOT_REF2="ts37">
+                <ANNOTATION_VALUE>die die beste Volkskraft umschließe. Der Marsch des Volkssturms durch die alte</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts38" TIME_SLOT_REF2="ts41">
+                <ANNOTATION_VALUE>freie Hansestadt Gansig. In Berlin treten auf zehn Plätzen hunderttausende von Volkssturmmännern</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts42" TIME_SLOT_REF2="ts43">
+                <ANNOTATION_VALUE>zur Vereidigung an. Volkssturmsoldaten Berlins erhebt zur Vereidigung die rechte Hand und</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts44" TIME_SLOT_REF2="ts45">
+                <ANNOTATION_VALUE>spricht mir nach. Ich schwöre bei Gott diesen Heiligen Eid, dass ich dem Führer des Großdeutschen</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts46" TIME_SLOT_REF2="ts47">
+                <ANNOTATION_VALUE>Reiches Adolf Hitler bedingungslos treu und gehorsam sein werde.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts48" TIME_SLOT_REF2="ts49">
+                <ANNOTATION_VALUE>Ich gelobe, dass ich für meine Heimat tapfer kämpfen und lieber sterben werde, als die Freiheit. Vereidigung des Berliner Volkssturms auf Hitler. Goebbels beschwört die Kampfbereitschaft von Front und Heimat und die bedingungslose Fortsetzung des Kampfes</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts50" TIME_SLOT_REF2="ts51">
+                <ANNOTATION_VALUE>und damit die soziale Zukunft meines Volkes freizugeben.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts52" TIME_SLOT_REF2="ts53">
+                <ANNOTATION_VALUE>Männer des Berliner Volkssturms, ihr habt soeben als Volkssturmmänner den Eid auf den Führer,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
+                TIME_SLOT_REF1="ts54" TIME_SLOT_REF2="ts55">
+                <ANNOTATION_VALUE>auf die Freiheit des Reiches und auf die soziale Zukunft unseres Volkes abgelegt. Um eurem Volke</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
+                TIME_SLOT_REF1="ts56" TIME_SLOT_REF2="ts57">
+                <ANNOTATION_VALUE>und der ganzen Welt zu beweisen, dass Deutschland nicht nur an der Front, sondern auch in der Heimat</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26"
+                TIME_SLOT_REF1="ts58" TIME_SLOT_REF2="ts59">
+                <ANNOTATION_VALUE>über Millionen wehrbereiter und wehrentschlossener Männer verfügt, die den festen und unerschütterlichen Willen haben,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27"
+                TIME_SLOT_REF1="ts60" TIME_SLOT_REF2="ts61">
+                <ANNOTATION_VALUE>niemals vor den Feinden des Reiches die Flagge zu streichen und feige zu kapitulieren.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28"
+                TIME_SLOT_REF1="ts62" TIME_SLOT_REF2="ts63">
+                <ANNOTATION_VALUE>Ein Vorbeimarsch an Dr. Goebbels beschließt die Kundgebung.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29"
+                TIME_SLOT_REF1="ts64" TIME_SLOT_REF2="ts65">
+                <ANNOTATION_VALUE>Der Herz des Volkssturms ist ein kraftvoller Beweis dafür, dass kein Feind Terror das deutsche Volk beugen kann</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30"
+                TIME_SLOT_REF1="ts66" TIME_SLOT_REF2="ts67">
+                <ANNOTATION_VALUE>und dass die Herzen seiner Menschen über Masse, Material und Hass triumphieren werden.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31"
+                TIME_SLOT_REF1="ts68" TIME_SLOT_REF2="ts69">
+                <ANNOTATION_VALUE>Der Herz des Volkssturms ist ein kraftvoller Beweis dafür, dass kein Feind Terror das deutsche Volk beugen kann</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32"
+                TIME_SLOT_REF1="ts70" TIME_SLOT_REF2="ts71">
+                <ANNOTATION_VALUE>und dass die Herzen seiner Menschen über Masse, Material und Hass triumphieren werden.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33"
+                TIME_SLOT_REF1="ts72" TIME_SLOT_REF2="ts75">
+                <ANNOTATION_VALUE>Auch mit riesigem Aufwand an Menschen und Material ist es den Anglo-Amerikanern nicht gelungen,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34"
+                TIME_SLOT_REF1="ts76" TIME_SLOT_REF2="ts77">
+                <ANNOTATION_VALUE>die erwarteten Durchbrüche zu erzwingen und die Westfront ins Wanken zu bringen.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35"
+                TIME_SLOT_REF1="ts78" TIME_SLOT_REF2="ts79">
+                <ANNOTATION_VALUE>Der wachsende Feinddruck lässt auch die Kraft und Verbissenheit der Verteidiger wachsen.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36"
+                TIME_SLOT_REF1="ts80" TIME_SLOT_REF2="ts81">
+                <ANNOTATION_VALUE>Von Nässe und Schlamm sind die Gräben durchzogen.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37"
+                TIME_SLOT_REF1="ts82" TIME_SLOT_REF2="ts83">
+                <ANNOTATION_VALUE>In einer Auffangstellung der Vogesenfront.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38"
+                TIME_SLOT_REF1="ts84" TIME_SLOT_REF2="ts85">
+                <ANNOTATION_VALUE>Eine Feindgruppe ist in das Waldstück eingedrungen und wird unter Feuer genommen.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39"
+                TIME_SLOT_REF1="ts86" TIME_SLOT_REF2="ts87">
+                <ANNOTATION_VALUE>Flakpanzer greifen bei einem Fliegerangriff mit ein.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40"
+                TIME_SLOT_REF1="ts88" TIME_SLOT_REF2="ts89">
+                <ANNOTATION_VALUE>Unter Beschuss bereiten Pioniere eine Sprengung vor.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41"
+                TIME_SLOT_REF1="ts90" TIME_SLOT_REF2="ts91">
+                <ANNOTATION_VALUE>Das ist der tapferste Panzernachkämpfer seiner Kompanie.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42"
+                TIME_SLOT_REF1="ts92" TIME_SLOT_REF2="ts93">
+                <ANNOTATION_VALUE>Obergefreiter Maurer erhält von General Feuchtinger das Ritterkreuz.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43"
+                TIME_SLOT_REF1="ts94" TIME_SLOT_REF2="ts95">
+                <ANNOTATION_VALUE>Seine Kameraden, die er eben aus dem vordersten Graben abgelöst, stehen in der Ehrenkompanie.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44"
+                TIME_SLOT_REF1="ts97" TIME_SLOT_REF2="ts99">
+                <ANNOTATION_VALUE>Im Südosten ist durch kräftige deutsche Gegenstöße Luft für Budapest geschaffen worden.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a45"
+                TIME_SLOT_REF1="ts100" TIME_SLOT_REF2="ts101">
+                <ANNOTATION_VALUE>Auch hier weiß die ländliche Bevölkerung, was der Bolschewismus bedeutet.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a46"
+                TIME_SLOT_REF1="ts102" TIME_SLOT_REF2="ts103">
+                <ANNOTATION_VALUE>Deutsche Panzer und Sturmgeschütze südöstlich von Budapest in Bereitstellung.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a47"
+                TIME_SLOT_REF1="ts104" TIME_SLOT_REF2="ts105">
+                <ANNOTATION_VALUE>An ihnen brach der bolschewistische Ansturm bei seinem Frontalangriff auf Ungarns Hauptstadt.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a48"
+                TIME_SLOT_REF1="ts106" TIME_SLOT_REF2="ts107">
+                <ANNOTATION_VALUE>Die Sturmgeschütze sind in der Nähe von Budapest.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a49"
+                TIME_SLOT_REF1="ts108" TIME_SLOT_REF2="ts109">
+                <ANNOTATION_VALUE>Die Sturmgeschütze sind in der Nähe von Budapest.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a50"
+                TIME_SLOT_REF1="ts110" TIME_SLOT_REF2="ts111">
+                <ANNOTATION_VALUE>Die Sturmgeschütze sind in der Nähe von Budapest.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a51"
+                TIME_SLOT_REF1="ts112" TIME_SLOT_REF2="ts113">
+                <ANNOTATION_VALUE>Auch hier weiß der bolschewistische Ansturm bei seinem Frontalangriff auf Ungarns Hauptstadt.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a52"
+                TIME_SLOT_REF1="ts114" TIME_SLOT_REF2="ts115">
+                <ANNOTATION_VALUE>Diese Panzerschlacht kostete die Bolschewisten gewaltige Verluste.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a53"
+                TIME_SLOT_REF1="ts116" TIME_SLOT_REF2="ts117">
+                <ANNOTATION_VALUE>Prax des T-34, zerschlagene Geschütze auf Wegen, Straßen und Feldern.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a54"
+                TIME_SLOT_REF1="ts118" TIME_SLOT_REF2="ts119">
+                <ANNOTATION_VALUE>Nach einem Straßenkampf der Panzer.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a55"
+                TIME_SLOT_REF1="ts120" TIME_SLOT_REF2="ts123">
+                <ANNOTATION_VALUE>In den Morgenstunden des 6. November setzen deutsche Sturmpioniere zum Angriff auf das Kaserngelände von Goldaff an.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a56"
+                TIME_SLOT_REF1="ts124" TIME_SLOT_REF2="ts125">
+                <ANNOTATION_VALUE>Panzer und Sturmgeschütze dringen in die Stadt ein. Grenadier kämpfen sich mit einer Angriffswut ohnegleichen in das Ziel.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a57"
+                TIME_SLOT_REF1="ts126" TIME_SLOT_REF2="ts127">
+                <ANNOTATION_VALUE>Vernichtete sowjetische Kleinkampfwagen. Häuser werden von bolschewistischen Scharfschützen gesäubert.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a58"
+                TIME_SLOT_REF1="ts128" TIME_SLOT_REF2="ts129">
+                <ANNOTATION_VALUE>Geraubter Schmuck aus Geschäften und Wohnungen. Man fand ihn in den Taschen vieler toter Sowjets.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a59"
+                TIME_SLOT_REF1="ts130" TIME_SLOT_REF2="ts131">
+                <ANNOTATION_VALUE>Goldaff ist frei vom Feind. Getragen vom Glauben und von der Kraft ihres Volkes kämpfen deutsche Panzer und Grenadiere um die Freiheit Deutschlands.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="Segment" TIER_ID="Segment">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a60"
+                TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts11">
+                <ANNOTATION_VALUE>1</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a61"
+                TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>2</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a62"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts39">
+                <ANNOTATION_VALUE>3</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a63"
+                TIME_SLOT_REF1="ts40" TIME_SLOT_REF2="ts73">
+                <ANNOTATION_VALUE>4</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a64"
+                TIME_SLOT_REF1="ts74" TIME_SLOT_REF2="ts96">
+                <ANNOTATION_VALUE>5</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a65"
+                TIME_SLOT_REF1="ts98" TIME_SLOT_REF2="ts121">
+                <ANNOTATION_VALUE>6</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a66"
+                TIME_SLOT_REF1="ts122" TIME_SLOT_REF2="ts132">
+                <ANNOTATION_VALUE>7</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="Content_Type" PARENT_REF="Segment" TIER_ID="Content">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a67" ANNOTATION_REF="a60">
+                <ANNOTATION_VALUE>hrung, München, Deutsches Reich, 9.11.1944 Gedenkfeier anlässlich des Jahrestages vom 9.11.1923 in München</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a68" ANNOTATION_REF="a61">
+                <ANNOTATION_VALUE>Vereidigung, Königsberg, Ostpreußen, Deutsches Reich, 1944. Vereidigung von Volkssturmmännern in Königsberg. Ansprache durch Gauleiter Erich Koch</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a69" ANNOTATION_REF="a62">
+                <ANNOTATION_VALUE> Vereidigung, Danzig, Deutsches Reich, 1944.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a70" ANNOTATION_REF="a63">
+                <ANNOTATION_VALUE>Vereidigung, Berlin, Deutsches Reich, 1944. Vereidigung des Berliner Volkssturms auf Hitler; Goebbels beschwört die Kampfbereitschaft von Front und Heimat und die bedingungslose Fortsetzung des Kampfes.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a71" ANNOTATION_REF="a64">
+                <ANNOTATION_VALUE>Rückzug, Vogesen, Frankreich, 1944. Deutsche Truppen in Abwehrkämpfen in den Vogesen</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a72" ANNOTATION_REF="a65">
+                <ANNOTATION_VALUE>Rückzug, Budapest, Ungarn, 1944.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a73" ANNOTATION_REF="a66">
+                <ANNOTATION_VALUE>Rückzug, Goldap, Ostpreußen, Deutsches Reich, 1944.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="Segment_info" PARENT_REF="Segment" TIER_ID="Actor">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a74" ANNOTATION_REF="a60">
+                <ANNOTATION_VALUE>Soldaten, NSDAP, Keitel, Giesler</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a75" ANNOTATION_REF="a61">
+                <ANNOTATION_VALUE>NSDAP, Koch, Soldaten</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a76" ANNOTATION_REF="a62">
+                <ANNOTATION_VALUE>NSDAP, Soldaten, Hartmann, Forster, Schepmann</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a77" ANNOTATION_REF="a63">
+                <ANNOTATION_VALUE>NSDAP, Goebbels, Soldaten</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a78" ANNOTATION_REF="a64">
+                <ANNOTATION_VALUE>Soldaten, anglo-amerikanische Soldaten, Maurer, Feuchtinger</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a79" ANNOTATION_REF="a65">
+                <ANNOTATION_VALUE>Soldaten, sowjetische Soldaten, Zivilbevölkerung</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a80" ANNOTATION_REF="a66">
+                <ANNOTATION_VALUE>Soldaten, sowjetische Soldaten, Zivilbevölkerung</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="Segment_info" PARENT_REF="Segment" TIER_ID="Topic">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a81" ANNOTATION_REF="a60">
+                <ANNOTATION_VALUE>Innenpolitik</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a82" ANNOTATION_REF="a61">
+                <ANNOTATION_VALUE>Heimatfront, Militär</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a83" ANNOTATION_REF="a63">
+                <ANNOTATION_VALUE>Heimatfront, Militär</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a84" ANNOTATION_REF="a64">
+                <ANNOTATION_VALUE>Militär, Krieg</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a85" ANNOTATION_REF="a65">
+                <ANNOTATION_VALUE>Militär, Krieg, Außenpolitik</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a86" ANNOTATION_REF="a66">
+                <ANNOTATION_VALUE>Militär, Krieg</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="Segment_info" PARENT_REF="Segment" TIER_ID="Propaganda_Strategies">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a87" ANNOTATION_REF="a60">
+                <ANNOTATION_VALUE>Opferbereitschaft und Durchhalten, Heroisierung</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a88" ANNOTATION_REF="a61">
+                <ANNOTATION_VALUE>Opferbereitschaft und Durchhalten, Volksgemeinschaft, Feindbildkonstruktion</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a89" ANNOTATION_REF="a62">
+                <ANNOTATION_VALUE>Volksgemeinschaft, Opferbereitschaft und Durchhalten, Heroisierung</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a90" ANNOTATION_REF="a63">
+                <ANNOTATION_VALUE>Opferbereitschaft und Durchhalten, Volksgemeinschaft, Personenkult, Feindbildkonstruktion, Dämonisierung, Heroisierung</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a91" ANNOTATION_REF="a64">
+                <ANNOTATION_VALUE>Heroisierung, Feindbildkonstruktion</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a92" ANNOTATION_REF="a65">
+                <ANNOTATION_VALUE>Feindbildkonstruktion, Heroisierung</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a93" ANNOTATION_REF="a66">
+                <ANNOTATION_VALUE>Heroisierung, Opferbereitschaft und Durchhalten</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="Segment_info" PARENT_REF="Segment" TIER_ID="Visual_Technique">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a94" ANNOTATION_REF="a60">
+                <ANNOTATION_VALUE>Massendarstellung, Symbolik, Totale, Nahaufnahme, Kamerabewegung</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a95" ANNOTATION_REF="a61">
+                <ANNOTATION_VALUE>Symbolik, Massendarstellung, Totale, Nahaufnahme</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a96" ANNOTATION_REF="a62">
+                <ANNOTATION_VALUE>Massendarstellung, Symbolik, Nahaufnahme</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a97" ANNOTATION_REF="a63">
+                <ANNOTATION_VALUE>Massendarstellung, Symbolik, Kamerabewegung, Nahaufnahme</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a98" ANNOTATION_REF="a64">
+                <ANNOTATION_VALUE>Animation, Luftaufnahme, Nahaufnahme, Kamerabewegung, Totale, Symbolik</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a99" ANNOTATION_REF="a65">
+                <ANNOTATION_VALUE>Animation, Symbolik, Nahaufnahme, Luftaufnahme, Totale, Kamerabewegung, Massendarstellung</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a100" ANNOTATION_REF="a66">
+                <ANNOTATION_VALUE>Animation, Nahaufnahme, Massendarstellung, Kamerabewegung</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="Segment_info" PARENT_REF="Segment" TIER_ID="Audio">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a101" ANNOTATION_REF="a60">
+                <ANNOTATION_VALUE>Musik, wertender Sprecher</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a102" ANNOTATION_REF="a61">
+                <ANNOTATION_VALUE>Musik, wertender Sprecher</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a103" ANNOTATION_REF="a62">
+                <ANNOTATION_VALUE>Musik, wertender Sprecher</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a104" ANNOTATION_REF="a63">
+                <ANNOTATION_VALUE>Musik, wertender Sprecher, Originalton, Publikumsreaktion</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a105" ANNOTATION_REF="a64">
+                <ANNOTATION_VALUE>Musik, wertender Sprecher, Originalton</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a106" ANNOTATION_REF="a65">
+                <ANNOTATION_VALUE>Musik, Originalton, wertender Sprecher, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a107" ANNOTATION_REF="a66">
+                <ANNOTATION_VALUE>Musik, wertender Sprecher, Originalton</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="Notes_Type" PARENT_REF="Segment" TIER_ID="Notes"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="imported-sub" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="Segment" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Content_Type" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Segment_info" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Notes_Type" TIME_ALIGNABLE="false"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

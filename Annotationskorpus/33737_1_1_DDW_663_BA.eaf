@@ -1,0 +1,1008 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2026-10-01T01:07:16+01:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///C:/Users/Kubilay/Desktop/Masterarbeit/Wochenschau folgen/Folgen 729/33737_1_1_DDW_663_BA.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./33737_1_1_DDW_663_BA.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:d415a408-c270-4443-9c5c-8efea3b7ee0c</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">138</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="30000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="43746"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="48280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="48280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="54880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="54880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="60160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="60160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="65760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="65760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="70960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="70960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="75960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="75960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="81920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="84880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="97200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="97200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="108079"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="112085"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="116760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="116760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="123560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="123560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="130280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="130280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="136200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="142200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="145640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="145640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="155840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="155840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="160760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="160760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="161640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="175640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="183453"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="185600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="190800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="190800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="205040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="205040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="213920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="213920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="227560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="227560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="245400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="245400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="262680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="262680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="268320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="268320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="274120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="276200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="280520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="280520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="287880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="287880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="292724"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="294209"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="299280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="299280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="315320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="315320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="322520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="322520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="334320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="334320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="361880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="361880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="366680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="366680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="374760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="374760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="395640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="395640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="409160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="409160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="414280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="414280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="419360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="419360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts83" TIME_VALUE="448680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="448680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts85" TIME_VALUE="455560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts86" TIME_VALUE="463960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts87" TIME_VALUE="465880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts88" TIME_VALUE="468840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts89" TIME_VALUE="470720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts90" TIME_VALUE="470720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts91" TIME_VALUE="477680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts92" TIME_VALUE="499533"/>
+        <TIME_SLOT TIME_SLOT_ID="ts93" TIME_VALUE="500685"/>
+        <TIME_SLOT TIME_SLOT_ID="ts94" TIME_VALUE="500840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts95" TIME_VALUE="502360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts96" TIME_VALUE="507720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts97" TIME_VALUE="509360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts98" TIME_VALUE="513680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts99" TIME_VALUE="516960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts100" TIME_VALUE="516960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts101" TIME_VALUE="521960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts102" TIME_VALUE="531720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts103" TIME_VALUE="533440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts104" TIME_VALUE="547440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts105" TIME_VALUE="548200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts106" TIME_VALUE="560720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts107" TIME_VALUE="567440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts108" TIME_VALUE="567440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts109" TIME_VALUE="578640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts110" TIME_VALUE="578640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts111" TIME_VALUE="589320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts112" TIME_VALUE="590720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts113" TIME_VALUE="605680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts114" TIME_VALUE="605680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts115" TIME_VALUE="616480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts116" TIME_VALUE="616480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts117" TIME_VALUE="620320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts118" TIME_VALUE="620320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts119" TIME_VALUE="624000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts120" TIME_VALUE="624000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts121" TIME_VALUE="633600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts122" TIME_VALUE="633600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts123" TIME_VALUE="639080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts124" TIME_VALUE="646480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts125" TIME_VALUE="664880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts126" TIME_VALUE="664880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts127" TIME_VALUE="673702"/>
+        <TIME_SLOT TIME_SLOT_ID="ts128" TIME_VALUE="675278"/>
+        <TIME_SLOT TIME_SLOT_ID="ts129" TIME_VALUE="677680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts130" TIME_VALUE="677680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts131" TIME_VALUE="685600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts132" TIME_VALUE="685600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts133" TIME_VALUE="688280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts134" TIME_VALUE="688280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts135" TIME_VALUE="691760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts136" TIME_VALUE="694880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts137" TIME_VALUE="708720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts138" TIME_VALUE="708720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts139" TIME_VALUE="717400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts140" TIME_VALUE="717400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts141" TIME_VALUE="724800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts142" TIME_VALUE="724800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts143" TIME_VALUE="735840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts144" TIME_VALUE="735840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts145" TIME_VALUE="742720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts146" TIME_VALUE="742720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts147" TIME_VALUE="746440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts148" TIME_VALUE="746440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts149" TIME_VALUE="758840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts150" TIME_VALUE="758880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts151" TIME_VALUE="776120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts152" TIME_VALUE="776120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts153" TIME_VALUE="776407"/>
+        <TIME_SLOT TIME_SLOT_ID="ts154" TIME_VALUE="777864"/>
+        <TIME_SLOT TIME_SLOT_ID="ts155" TIME_VALUE="780200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts156" TIME_VALUE="780200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts157" TIME_VALUE="790200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts158" TIME_VALUE="790200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts159" TIME_VALUE="805840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts160" TIME_VALUE="811200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts161" TIME_VALUE="827200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts162" TIME_VALUE="827200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts163" TIME_VALUE="845200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts164" TIME_VALUE="845200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts165" TIME_VALUE="867200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts166" TIME_VALUE="868508"/>
+        <TIME_SLOT TIME_SLOT_ID="ts167" TIME_VALUE="871313"/>
+        <TIME_SLOT TIME_SLOT_ID="ts168" TIME_VALUE="876200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts169" TIME_VALUE="903200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts170" TIME_VALUE="903200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts171" TIME_VALUE="911200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts172" TIME_VALUE="911200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts173" TIME_VALUE="936200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts174" TIME_VALUE="936200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts175" TIME_VALUE="965200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts176" TIME_VALUE="966200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts177" TIME_VALUE="974681"/>
+        <TIME_SLOT TIME_SLOT_ID="ts178" TIME_VALUE="981200"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sub" TIER_ID="Subtitle-Tier">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts3">
+                <ANNOTATION_VALUE>Staatsakt für Generalgraf Brockdorf-Alefeld im Berliner Zeughaus.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts5">
+                <ANNOTATION_VALUE>Generalfeldmarschall Busch grüßt den toten Heerführer, der sich als Verteidiger der</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE>Festung Demjansk zusammen mit seinen Soldaten unsterblichen Ruhm erworben hat. In seiner</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts8" TIME_SLOT_REF2="ts9">
+                <ANNOTATION_VALUE>Gedenkrede zeichnete Generalfeldmarschall Busch noch einmal das Lebensbild des Verstorbenen und</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts11">
+                <ANNOTATION_VALUE>sagte unter anderem, wenn die Geschichte dieses Krieges geschrieben wird, dann werden viele Seiten</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts13">
+                <ANNOTATION_VALUE>Zeugnis geben von dem hohen kämpferischen Soldatentun dieses Generals. Beim Kampf in</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts15">
+                <ANNOTATION_VALUE>der Festung Demjansk gab er sein Bestes für seinen Führer, für seine Soldaten und für sein Volk.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts16" TIME_SLOT_REF2="ts17">
+                <ANNOTATION_VALUE>Generalfeldmarschall Busch legt den Kranz des Führers nieder.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts21">
+                <ANNOTATION_VALUE>In Seeboden am Milstetter See wurde das zweite Wehrertüchtigungslager der</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts23">
+                <ANNOTATION_VALUE>germanischen Jugend durchgeführt. Norwegische, Dänische, Flemische, Wallonische, Niederländische</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts24" TIME_SLOT_REF2="ts25">
+                <ANNOTATION_VALUE>und deutsche Jungen finden sich hier freiwillig zur vormilitärischen Ausbildung zusammen. Die</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts27">
+                <ANNOTATION_VALUE>Unterkünfte sind durch Namen aus der germanischen Geschichte gekennzeichnet. Antreten zum Frühdienst.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts28" TIME_SLOT_REF2="ts29">
+                <ANNOTATION_VALUE>Fronterfahrene Führer der Waffen-SS leiten die Ausbildung.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts30" TIME_SLOT_REF2="ts31">
+                <ANNOTATION_VALUE>Sport, Geländedienst, weltanschauliche Schulung und Freizeit binden die Jungen zu</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts32" TIME_SLOT_REF2="ts33">
+                <ANNOTATION_VALUE>einer festen Kameradschaft, die über die Tage im Lager hinaus weiter wirken soll für die Zukunft</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts34" TIME_SLOT_REF2="ts35">
+                <ANNOTATION_VALUE>Europas.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts36" TIME_SLOT_REF2="ts39">
+                <ANNOTATION_VALUE>In einer Ausbildungsstaffel für Bergreitpferde und Tragtiere unserer Gebirgstruppen. Drei</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts40" TIME_SLOT_REF2="ts41">
+                <ANNOTATION_VALUE>jährige Maultiere und Haflinger in der Ausbildung. Zum ersten Mal angehalftert.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts42" TIME_SLOT_REF2="ts43">
+                <ANNOTATION_VALUE>Aller Anfang ist schwer, nur die Ruhe kann es machen. Ein Muli erhält zum ersten Mal einen</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts44" TIME_SLOT_REF2="ts45">
+                <ANNOTATION_VALUE>Tragsattel aufgelegt. Noch fühlt er nicht die Last, aber jetzt mit seiner ganzen Kraft versucht</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts46" TIME_SLOT_REF2="ts47">
+                <ANNOTATION_VALUE>der Sattel und Körbe abzuschütteln. Endlich ist er beruhigt. Schon nach wenigen Tagen kann</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts48" TIME_SLOT_REF2="ts49">
+                <ANNOTATION_VALUE>mit dem Ausmarsch in das Gelände begonnen werden. In ruhigem, natürlichem Tempo geht</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts50" TIME_SLOT_REF2="ts51">
+                <ANNOTATION_VALUE>es vorwärts. Jede Hast wird vermieden. Nur so wird eine gleichmäßige und gleichbleibende Leistung</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
+                TIME_SLOT_REF1="ts52" TIME_SLOT_REF2="ts53">
+                <ANNOTATION_VALUE>der Tragtiere erreicht. Von Ausmarsch zu Ausmarsch wachsen Geländeschwierigkeiten und Lasten.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
+                TIME_SLOT_REF1="ts54" TIME_SLOT_REF2="ts55">
+                <ANNOTATION_VALUE>An steilen Abhängen werden die Pferde gehalten, damit sie durch die schwere Last nicht ins</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26"
+                TIME_SLOT_REF1="ts56" TIME_SLOT_REF2="ts57">
+                <ANNOTATION_VALUE>Rutschen kommen. Nach einjähriger Ausbildung können die Tragtiere als treue Helfer unsere</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27"
+                TIME_SLOT_REF1="ts58" TIME_SLOT_REF2="ts61">
+                <ANNOTATION_VALUE>Gebirgsjäger an der Front eingesetzt werden. An Europas Nordwest und Südküste ist eine gewaltige</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28"
+                TIME_SLOT_REF1="ts62" TIME_SLOT_REF2="ts63">
+                <ANNOTATION_VALUE>Abwehrfront entstanden. Zahllose Geschütze aller Kaliber richten sich gegen den Feind. Die</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29"
+                TIME_SLOT_REF1="ts64" TIME_SLOT_REF2="ts65">
+                <ANNOTATION_VALUE>Atlantik, Kanal und Mittelmeerküste starten Waffen. Beton, Stahl und Eisen prägen heute das Bild dieser</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30"
+                TIME_SLOT_REF1="ts66" TIME_SLOT_REF2="ts67">
+                <ANNOTATION_VALUE>Landschaften. Die Befestigungen vom höchsten Norden bis zum tiefsten Süden Europas werden</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31"
+                TIME_SLOT_REF1="ts68" TIME_SLOT_REF2="ts69">
+                <ANNOTATION_VALUE>noch immer verbessert und verstärkt. Bei der OT am Kanal Ministerialdirektor Dorsch, der Leiter</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32"
+                TIME_SLOT_REF1="ts70" TIME_SLOT_REF2="ts71">
+                <ANNOTATION_VALUE>der OT-Zentrale. Der Führer verlieh ihn für seine Verdienste um den Bau des Atlantikwalls,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33"
+                TIME_SLOT_REF1="ts72" TIME_SLOT_REF2="ts73">
+                <ANNOTATION_VALUE>das Ritterkreuz zum Kriegsverdienstkreuz mit Schwertern. Grenadiere beziehen ihre Posten.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34"
+                TIME_SLOT_REF1="ts74" TIME_SLOT_REF2="ts75">
+                <ANNOTATION_VALUE>Aufklärer überwachen ständig das Küstenvorfeld. Über der französischen Riviera. Weite Strecken</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35"
+                TIME_SLOT_REF1="ts76" TIME_SLOT_REF2="ts77">
+                <ANNOTATION_VALUE>dieses Gebietes sind von See her fast unangreifbar. Millionen von Kilometern Staffeldraht sind zu</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36"
+                TIME_SLOT_REF1="ts78" TIME_SLOT_REF2="ts79">
+                <ANNOTATION_VALUE>Sperren verflochten. Reichsarbeitsführer Hirl bei seinen Arbeitsmännern, die zusammen mit den</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37"
+                TIME_SLOT_REF1="ts80" TIME_SLOT_REF2="ts81">
+                <ANNOTATION_VALUE>bewährten Kolonnen der OT an der West- wie an der Südküste des Kontinents zur Sicherung Europas</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38"
+                TIME_SLOT_REF1="ts82" TIME_SLOT_REF2="ts83">
+                <ANNOTATION_VALUE>eingesetzt sind. In kürzester Zeit sind auch an der Mittelmeerküste mächtige Bunker entstanden.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39"
+                TIME_SLOT_REF1="ts84" TIME_SLOT_REF2="ts85">
+                <ANNOTATION_VALUE>Flakartillerie schützt die Baustellen gegen feindliche Luftangriffe.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40"
+                TIME_SLOT_REF1="ts86" TIME_SLOT_REF2="ts87">
+                <ANNOTATION_VALUE>Ein besonders erfolgreiches Flakgeschütz.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41"
+                TIME_SLOT_REF1="ts88" TIME_SLOT_REF2="ts89">
+                <ANNOTATION_VALUE>Schwere Küstenbatterien feuerbereit.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42"
+                TIME_SLOT_REF1="ts90" TIME_SLOT_REF2="ts91">
+                <ANNOTATION_VALUE>Eisenbahngeschütze.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43"
+                TIME_SLOT_REF1="ts94" TIME_SLOT_REF2="ts95">
+                <ANNOTATION_VALUE>Ein Gleitzug wird beladen.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44"
+                TIME_SLOT_REF1="ts96" TIME_SLOT_REF2="ts97">
+                <ANNOTATION_VALUE>Munition für die schwere Artillerie.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a45"
+                TIME_SLOT_REF1="ts98" TIME_SLOT_REF2="ts99">
+                <ANNOTATION_VALUE>Der Gleitzug verlässt den Hafen. Er wird durch Zerstörer gesichert.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a46"
+                TIME_SLOT_REF1="ts100" TIME_SLOT_REF2="ts101">
+                <ANNOTATION_VALUE>Fahrt durch den Kanal von Korinth.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a47"
+                TIME_SLOT_REF1="ts102" TIME_SLOT_REF2="ts103">
+                <ANNOTATION_VALUE>Alles hält scharf aus, Guck.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a48"
+                TIME_SLOT_REF1="ts104" TIME_SLOT_REF2="ts105">
+                <ANNOTATION_VALUE>Dritten Bomber.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a49"
+                TIME_SLOT_REF1="ts106" TIME_SLOT_REF2="ts107">
+                <ANNOTATION_VALUE>Die Briten greifen den Verband an.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a50"
+                TIME_SLOT_REF1="ts108" TIME_SLOT_REF2="ts109">
+                <ANNOTATION_VALUE>Diese Bomben liegen gefährlich nahe.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a51"
+                TIME_SLOT_REF1="ts110" TIME_SLOT_REF2="ts111">
+                <ANNOTATION_VALUE>Torpedoflieger.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a52"
+                TIME_SLOT_REF1="ts112" TIME_SLOT_REF2="ts113">
+                <ANNOTATION_VALUE>Abschuss.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a53"
+                TIME_SLOT_REF1="ts114" TIME_SLOT_REF2="ts115">
+                <ANNOTATION_VALUE>Der Gleitzug wird eingenebelt.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a54"
+                TIME_SLOT_REF1="ts116" TIME_SLOT_REF2="ts117">
+                <ANNOTATION_VALUE>Der Kampf ist beendet.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a55"
+                TIME_SLOT_REF1="ts118" TIME_SLOT_REF2="ts119">
+                <ANNOTATION_VALUE>Verwundete Soldaten der Botflak Kommandos werden von Räumbooten übernommen.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a56"
+                TIME_SLOT_REF1="ts120" TIME_SLOT_REF2="ts121">
+                <ANNOTATION_VALUE>Die Abschusszeichen an der Kommandobrücke.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a57"
+                TIME_SLOT_REF1="ts122" TIME_SLOT_REF2="ts123">
+                <ANNOTATION_VALUE>Der Gleitzug hat seinen Zielhafen erreicht. Die Frachter werden sofort entladen.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a58"
+                TIME_SLOT_REF1="ts124" TIME_SLOT_REF2="ts125">
+                <ANNOTATION_VALUE>Auch im Süden Europas steht der deutsche Soldat mit seinen italienischen Kameraden bereit zum Kampf gegen jeden Feind.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a59"
+                TIME_SLOT_REF1="ts126" TIME_SLOT_REF2="ts129">
+                <ANNOTATION_VALUE>Am mittleren Abschnitt der Ostfront.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a60"
+                TIME_SLOT_REF1="ts130" TIME_SLOT_REF2="ts131">
+                <ANNOTATION_VALUE>Befehlsausgabe. Es geht um die Bekämpfung von Bandennestern im rückwärtigen Gebiet.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a61"
+                TIME_SLOT_REF1="ts132" TIME_SLOT_REF2="ts133">
+                <ANNOTATION_VALUE>Der Sicherheitsdienst hat die Schluckwinkel erkundet.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a62"
+                TIME_SLOT_REF1="ts134" TIME_SLOT_REF2="ts135">
+                <ANNOTATION_VALUE>Nun gehen Einheiten der Polizei zum konzentrischen Angriff vor.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a63"
+                TIME_SLOT_REF1="ts136" TIME_SLOT_REF2="ts137">
+                <ANNOTATION_VALUE>Verhör eines Bauern. Er gibt Auskunft über den Weg zu dem gesuchten Bandennest.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a64"
+                TIME_SLOT_REF1="ts138" TIME_SLOT_REF2="ts139">
+                <ANNOTATION_VALUE>In breiter Front wird das Gelände durchgekämmt.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a65"
+                TIME_SLOT_REF1="ts140" TIME_SLOT_REF2="ts141">
+                <ANNOTATION_VALUE>Unterstände in einer Waldlichtung. Von hier aus überfielen die Banditen während des Winters einzelne Fahrzeuge und plünderten sie aus.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a66"
+                TIME_SLOT_REF1="ts142" TIME_SLOT_REF2="ts143">
+                <ANNOTATION_VALUE>In diesem Gebiet liegt die Bandenzentrale, das Hauptangriffsziel.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a67"
+                TIME_SLOT_REF1="ts144" TIME_SLOT_REF2="ts145">
+                <ANNOTATION_VALUE>Die einzelnen Gruppen sind durch Funk miteinander verbunden.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a68"
+                TIME_SLOT_REF1="ts146" TIME_SLOT_REF2="ts147">
+                <ANNOTATION_VALUE>Der Angriff beginnt.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a69"
+                TIME_SLOT_REF1="ts148" TIME_SLOT_REF2="ts149">
+                <ANNOTATION_VALUE>Nach kurzem Feuerschlag dringt ein Stoßtrupp in die Gehöfte ein und räuchert sie aus.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a70"
+                TIME_SLOT_REF1="ts150" TIME_SLOT_REF2="ts151">
+                <ANNOTATION_VALUE>Die Rädelsführer der Bande werden ihrer gerechten Strafe zugeführt.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a71"
+                TIME_SLOT_REF1="ts152" TIME_SLOT_REF2="ts155">
+                <ANNOTATION_VALUE>Am Südabschnitt der Ostfront.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a72"
+                TIME_SLOT_REF1="ts156" TIME_SLOT_REF2="ts157">
+                <ANNOTATION_VALUE>Der Postwagen bringt Pakete einer großen Heimatspende mit Büchern, Musikinstrumenten und Unterhaltungsspielen.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a73"
+                TIME_SLOT_REF1="ts158" TIME_SLOT_REF2="ts159">
+                <ANNOTATION_VALUE>Schon ausgepackt.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a74"
+                TIME_SLOT_REF1="ts160" TIME_SLOT_REF2="ts161">
+                <ANNOTATION_VALUE>Sonntags Tanz in einem ukrainischen Dorf. Unsere Soldaten sind interessierte Zuschauer.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a75"
+                TIME_SLOT_REF1="ts162" TIME_SLOT_REF2="ts163">
+                <ANNOTATION_VALUE>Und hier ein Regiment von Kosaken, die sich zum Kampf gegen den Bolschowismus freiwillig in die Reihen der deutschen Wehrmacht eingegliedert haben.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a76"
+                TIME_SLOT_REF1="ts164" TIME_SLOT_REF2="ts165">
+                <ANNOTATION_VALUE>Dritter Kreuzträger General Nehring. Die Kosaken geben Proben ihres reiterlichen Könnens.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a77"
+                TIME_SLOT_REF1="ts168" TIME_SLOT_REF2="ts169">
+                <ANNOTATION_VALUE>Stuka-Geschwader starten zum Angriff auf die feindlichen Stellungen am Kuban-Brückenkopf, wo noch immer schwere Kämpfe toben.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a78"
+                TIME_SLOT_REF1="ts170" TIME_SLOT_REF2="ts171">
+                <ANNOTATION_VALUE>Dritter Kreuzträger General Major Fribe beobachtet die Wirkung.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a79"
+                TIME_SLOT_REF1="ts172" TIME_SLOT_REF2="ts173">
+                <ANNOTATION_VALUE>Artilleriefeuer auf Kampfstände der Sowjets.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a80"
+                TIME_SLOT_REF1="ts174" TIME_SLOT_REF2="ts175">
+                <ANNOTATION_VALUE>Die blutigen Verluste der Sowjets sind am Kuban-Brückenkopf besonders schwer.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a81"
+                TIME_SLOT_REF1="ts176" TIME_SLOT_REF2="ts178">
+                <ANNOTATION_VALUE>Die Stuka-Geschwader starten zum Angriff auf den Kuban-Brückenkopf.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="Segment" TIER_ID="Segment">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a82"
+                TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts19">
+                <ANNOTATION_VALUE>1</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a83"
+                TIME_SLOT_REF1="ts20" TIME_SLOT_REF2="ts37">
+                <ANNOTATION_VALUE>2</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a84"
+                TIME_SLOT_REF1="ts38" TIME_SLOT_REF2="ts59">
+                <ANNOTATION_VALUE>3</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a85"
+                TIME_SLOT_REF1="ts60" TIME_SLOT_REF2="ts92">
+                <ANNOTATION_VALUE>4</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a86"
+                TIME_SLOT_REF1="ts93" TIME_SLOT_REF2="ts127">
+                <ANNOTATION_VALUE>5</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a87"
+                TIME_SLOT_REF1="ts128" TIME_SLOT_REF2="ts153">
+                <ANNOTATION_VALUE>6</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a88"
+                TIME_SLOT_REF1="ts154" TIME_SLOT_REF2="ts166">
+                <ANNOTATION_VALUE>7</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a89"
+                TIME_SLOT_REF1="ts167" TIME_SLOT_REF2="ts177">
+                <ANNOTATION_VALUE>8</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="Content_Type" PARENT_REF="Segment" TIER_ID="Content">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a90" ANNOTATION_REF="a82">
+                <ANNOTATION_VALUE>Staatsakt für General von Brockdorff-Ahlefeldt im Berliner Zeughaus, Deutsches Reich, 1943. Staatsakt für den verstorbenen General Walter Graf von Brockdorff-Ahlefeldt im Berliner Zeughaus</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a91" ANNOTATION_REF="a83">
+                <ANNOTATION_VALUE>Vormilitärische Ausbildung von Jugendlichen in Seeboden am Millstätter See, Oberkärnten, Alpen- und Donau-Reichsgaue, 1943. Jugendliche verschiedener europäischer Nationalitäten nehmen gemeinsam an einem Wehrertüchtigungslager in Seeboden teil</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a92" ANNOTATION_REF="a84">
+                <ANNOTATION_VALUE>Ausbildung von Tragtieren für die Gebirgstruppen, 1943</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a93" ANNOTATION_REF="a85">
+                <ANNOTATION_VALUE>Die Befestigungen an den Küsten Europas, 1943. Ausbau und Darstellung deutscher Küstenbefestigungen in Europa</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a94" ANNOTATION_REF="a86">
+                <ANNOTATION_VALUE>Ein deutscher Geleitzug auf dem Mittelmeer, 1943. Deutscher Geleitzug transportiert Kriegsmaterial über das Mittelmeer</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a95" ANNOTATION_REF="a87">
+                <ANNOTATION_VALUE>Kampf gegen Partisanen im Hinterland der Ostfront, 1943. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a96" ANNOTATION_REF="a88">
+                <ANNOTATION_VALUE>Freizeit an der südlichen Ostfront, Ukrainische Sozialistische Sowjetrepublik, Sowjetunion, 1943. Heimatspenden und Freizeit deutscher Soldaten. Begegnung und Fest mit ukrainischer Bevölkerung sowie Vorführung eines Kosaken-Regiments, welches sich dem Kampf gegen den Bolschewismus angeschlossen hat</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a97" ANNOTATION_REF="a89">
+                <ANNOTATION_VALUE>Am Kuban-Brückenkopf, Russische Sozialistische Föderative Sowjetrepublik, Sowjetunion, 1943</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="Segment_info" PARENT_REF="Segment" TIER_ID="Actor">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a98" ANNOTATION_REF="a82">
+                <ANNOTATION_VALUE>NSDAP, Soldaten</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a99" ANNOTATION_REF="a83">
+                <ANNOTATION_VALUE>HJ, NSDAP, SS</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a100" ANNOTATION_REF="a84">
+                <ANNOTATION_VALUE>Soldaten</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a101" ANNOTATION_REF="a85">
+                <ANNOTATION_VALUE>Arbeiter, NSDAP</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a102" ANNOTATION_REF="a86">
+                <ANNOTATION_VALUE>Soldaten, britische Soldaten</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a103" ANNOTATION_REF="a87">
+                <ANNOTATION_VALUE>Sicherheitspolizei, Partisanen, sowjetische Zivilbevölkerung</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a104" ANNOTATION_REF="a88">
+                <ANNOTATION_VALUE>Soldaten, ukrainische Zivilbevölkerung, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a105" ANNOTATION_REF="a89">
+                <ANNOTATION_VALUE>Soldaten, Sowjetische Soldaten</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="Segment_info" PARENT_REF="Segment" TIER_ID="Topic">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a106" ANNOTATION_REF="a82">
+                <ANNOTATION_VALUE>Militär, Innenpolitik</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a107" ANNOTATION_REF="a83">
+                <ANNOTATION_VALUE>Innenpolitik, Militär</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a108" ANNOTATION_REF="a84">
+                <ANNOTATION_VALUE>Militär</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a109" ANNOTATION_REF="a85">
+                <ANNOTATION_VALUE>Militär, Wirtschaft</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a110" ANNOTATION_REF="a86">
+                <ANNOTATION_VALUE>Militär, Krieg</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a111" ANNOTATION_REF="a87">
+                <ANNOTATION_VALUE>Militär, Krieg</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a112" ANNOTATION_REF="a88">
+                <ANNOTATION_VALUE>Heimatfront, Kultur, Militär</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a113" ANNOTATION_REF="a89">
+                <ANNOTATION_VALUE>Militär, Krieg </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="Segment_info" PARENT_REF="Segment" TIER_ID="Propaganda_Strategies">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a114" ANNOTATION_REF="a82">
+                <ANNOTATION_VALUE>Heroisierung, Opferbeitschaft und Durchhalten</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a115" ANNOTATION_REF="a83">
+                <ANNOTATION_VALUE>Volksgemeinschaft</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a116" ANNOTATION_REF="a85">
+                <ANNOTATION_VALUE>Heroisierung</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a117" ANNOTATION_REF="a86">
+                <ANNOTATION_VALUE>Heroisierung</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a118" ANNOTATION_REF="a87">
+                <ANNOTATION_VALUE>Feindbildkonstruktion</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a119" ANNOTATION_REF="a88">
+                <ANNOTATION_VALUE>Volksgemeinschaft, Feindbildkonstruktion, Heroisierung</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a120" ANNOTATION_REF="a89">
+                <ANNOTATION_VALUE>Heroisierung</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="Segment_info" PARENT_REF="Segment" TIER_ID="Visual_Technique">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a121" ANNOTATION_REF="a82">
+                <ANNOTATION_VALUE>Symbolik, Nahaufnahem, Totale, Massendarstellung, Kamerabewegung</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a122" ANNOTATION_REF="a83">
+                <ANNOTATION_VALUE>Massendarstellung, Totale, Luftaufnahme, Kamerabewegung, Symbolik, Nahaufnahme</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a123" ANNOTATION_REF="a84">
+                <ANNOTATION_VALUE>Symbolik, Nahaufnahme, Kamerabewegung, Totale</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a124" ANNOTATION_REF="a85">
+                <ANNOTATION_VALUE>Animation, Totale, Nahaufnahme, Kamerabewegung,  Luftaufnahme, Massendarstellung, Symbolik</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a125" ANNOTATION_REF="a86">
+                <ANNOTATION_VALUE>Nahaufnahme, Totale, Massendarstellung, Kamerabewegung, Symbolik</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a126" ANNOTATION_REF="a87">
+                <ANNOTATION_VALUE>Nahaufnahme, Kamerabewegung, Symbolik, Totale</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a127" ANNOTATION_REF="a88">
+                <ANNOTATION_VALUE>Animation, Massendarstellung, Nahaufnahme, Kamerabewegung, Totale</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a128" ANNOTATION_REF="a89">
+                <ANNOTATION_VALUE>Luftaufnahme, Totale, Kamerabewegung, Nahaufnahme, Symbolik</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="Segment_info" PARENT_REF="Segment" TIER_ID="Audio">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a129" ANNOTATION_REF="a82">
+                <ANNOTATION_VALUE>Musik, wertender Sprecher</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a130" ANNOTATION_REF="a83">
+                <ANNOTATION_VALUE>Musik, wertender Sprecher</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a131" ANNOTATION_REF="a84">
+                <ANNOTATION_VALUE>Musik, Originalton</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a132" ANNOTATION_REF="a85">
+                <ANNOTATION_VALUE>Musik, wertender Sprecher, Originalton</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a133" ANNOTATION_REF="a86">
+                <ANNOTATION_VALUE>Musik, Originalton, wertender Sprecher</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a134" ANNOTATION_REF="a87">
+                <ANNOTATION_VALUE>Musik, wertender Sprecher, Originalton</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a135" ANNOTATION_REF="a88">
+                <ANNOTATION_VALUE>Musik, wertender Sprecher</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a136" ANNOTATION_REF="a89">
+                <ANNOTATION_VALUE>Musik, Originalton, wertender Sprecher</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="Notes_Type" PARENT_REF="Segment" TIER_ID="Notes">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a137" ANNOTATION_REF="a85">
+                <ANNOTATION_VALUE>Arbeitsleistung wird extrem gelobt</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a138" ANNOTATION_REF="a86">
+                <ANNOTATION_VALUE>Transportauftrag, Verwundete durch briten, erfolgreicher Auftrag</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="imported-sub" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="Segment" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Content_Type" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Segment_info" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Notes_Type" TIME_ALIGNABLE="false"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
